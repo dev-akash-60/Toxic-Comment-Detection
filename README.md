@@ -65,7 +65,7 @@ TOXIC COMMENT DETECTION\
 ### Project Preview
 ## 📸 Preview
 
-![Toxic Comment Detection Preview]()
+![Toxic Comment Detection Preview](https://github.com/dev-akash-60/Toxic-Comment-Detection/blob/main/Toxic%20Comment%20Detection.png?raw=true)
 
 ---
 
