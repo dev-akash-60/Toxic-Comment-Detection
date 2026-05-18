@@ -65,7 +65,7 @@ TOXIC COMMENT DETECTION\
 ### Project Preview
 ## 📸 Preview
 
-![Toxic Comment Detection Preview](https://github.com/dev-akash-60/Tic-Tac-Toe/blob/main/Screenshot%20tic%20tac%20toe%20game.png?raw=true)
+![Toxic Comment Detection Preview]()
 
 ---
 
