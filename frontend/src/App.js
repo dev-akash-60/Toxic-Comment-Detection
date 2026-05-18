@@ -27,7 +27,7 @@ function App() {
     setResult(null);
 
     try {
-      const res = await axios.post("http://localhost:5000/predict", {
+      const res = await axios.post("https://toxic-comment-detection.onrender.com", {
         text: text,
       });
       setResult(res.data);
